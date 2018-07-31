@@ -9,6 +9,7 @@ package com.mashensoft.object;
  *任何一个类，都继承自Object.手写出来，extends Object，显示继承
  */
 public class Worker extends Object{
+	//加了一行注释
 	static String boss;
 	int salary;
 	public void work() {
