@@ -10,6 +10,7 @@ package com.mashensoft.object;
  */
 public class Worker extends Object{
 	//加了一行注释
+	//再加一行代码
 	static String boss;
 	int salary;
 	public void work() {
